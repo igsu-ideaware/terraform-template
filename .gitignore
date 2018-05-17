@@ -1,0 +1,7 @@
+.terraform
+credentials
+.DS_Store
+.git
+.tfstate
+terraform.tfstate
+terraform
